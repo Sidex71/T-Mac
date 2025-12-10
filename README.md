@@ -1,2 +1,2 @@
 # T-Mac
-T cell_Macrophage doublet modelling
+Modelling physically interacting T cell_Macrophage doublets obtained from the tumour microenvironments of ovarian cancer patients using ULMNet
